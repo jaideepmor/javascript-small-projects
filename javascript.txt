@@ -1,0 +1,27 @@
+
+
+basic topics :->
+
+
+* l-1 - functions ->
+  l-2 - arrow functions ->
+  l-3 - higher order functions & callbacks ->
+  l-4 - arrays ->
+  l-5 - arrays higher order functions ->
+
+
+* l-6 - introduction to DOM ->
+  l-7 - query selector ->
+  l-8 - select element by id ->
+  l-9 - get element by class name ->
+  l-10 - what r event listeners ->
+  l-11 - create elements dynamically ->
+
+
+* l-12 - promises ->
+  l-13 - API calling ->
+  l-14 - local storage -> 
+  l-15 - closure -> 
+ 
+
+* projects ->
